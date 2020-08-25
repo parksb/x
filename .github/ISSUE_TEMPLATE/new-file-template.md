@@ -1,12 +1,8 @@
 ---
-name: New file template
-about: A template for uploading a new file.
+name: New image template
+about: A template for uploading a new image.
 title: ''
-labels: ''
+labels: 'image'
 assignees: ''
-
 ---
 
-* URL:
-* Title:
----
