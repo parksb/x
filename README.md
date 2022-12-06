@@ -1,1 +1,1 @@
-- [rust-anthem.pdf](rust-anthem.pdf)
+- [rust-anthem.pdf](rust-anthem.pdf) | [on viewer](https://parksb.github.io/storage/viewer.html?file=rust-anthem)

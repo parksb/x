@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>PDF Viewer</title>
+  <style>html, body, iframe { height: 100%; width: 100%; margin: 0; padding: 0; overflow-y: hidden; border: 0; }</style>
+</head>
+<body>
+  <iframe id="frame" src=""></iframe>
+  <script>
+    const sparams = new URLSearchParams(window.location.search);
+    const params = Object.fromEntries(sparams.entries());
+    document.getElementById('frame').src = 'https://parksb.github.io/pdf-viewer/web/viewer.html?file=https://parksb.github.io/storage/' + params.file + '.pdf';
+  </script>
+</body>
+</html>
