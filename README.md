@@ -5,3 +5,4 @@
 - [korean-film-history-memo-midterm.html](korean-film-history-memo-midterm.html)
 - [database-memo-midterm.html](database-memo-midterm.html)
 - [terrestrial-tv.html](terrestrial-tv.html)
+- [mobile-programming-memo.html](mobile-programming-memo.html)
