@@ -4,6 +4,7 @@
 - [hisl-20230320.html](hisl-20230320.html)
 - [korean-film-history-memo-midterm.html](korean-film-history-memo-midterm.html)
 - [database-memo-midterm.html](database-memo-midterm.html)
+- [database-memo-final.html](database-memo-final.html)
 - [terrestrial-tv.html](terrestrial-tv.html)
 - [mobile-programming-memo.html](mobile-programming-memo.html)
 - [korean-film-history-memo-final.html](korean-film-history-memo-final.html)
