@@ -8,3 +8,4 @@
 - [terrestrial-tv.html](terrestrial-tv.html)
 - [mobile-programming-memo.html](mobile-programming-memo.html)
 - [korean-film-history-memo-final.html](korean-film-history-memo-final.html)
+- [western-art-history-memo.html](western-art-history-memo.html)
