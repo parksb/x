@@ -9,3 +9,4 @@
 - [mobile-programming-memo.html](mobile-programming-memo.html)
 - [korean-film-history-memo-final.html](korean-film-history-memo-final.html)
 - [western-art-history-memo.html](western-art-history-memo.html)
+- [media-project-idea.pdf](media-project-idea.pdf), [on viewer](https://parksb.github.io/storage/viewer.html?file=media-project-idea)
