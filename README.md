@@ -10,3 +10,4 @@
 - [korean-film-history-memo-final.html](korean-film-history-memo-final.html)
 - [western-art-history-memo.html](western-art-history-memo.html)
 - [media-project-idea.pdf](media-project-idea.pdf), [on viewer](https://parksb.github.io/x/viewer.html?file=media-project-idea)
+- [japanese-modern-history-memo-midterm.html](japanese-modern-history-memo-midterm.html)
