@@ -12,3 +12,4 @@
 - [media-project-idea.pdf](media-project-idea.pdf), [on viewer](https://parksb.github.io/x/viewer.html?file=media-project-idea)
 - [japanese-modern-history-memo-midterm.html](japanese-modern-history-memo-midterm.html)
 - [understanding-media-art-memo.html](understanding-media-art-memo.html)
+- [media-project-reference](media-project-reference.html)
