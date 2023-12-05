@@ -14,3 +14,4 @@
 - [understanding-media-art-memo.html](understanding-media-art-memo.html)
 - [media-project-reference.pdf](media-project-reference.pdf), [on viewer](https://parksb.github.io/x/viewer.html?file=media-project-reference)
 - [media-project-final.pdf](media-project-final.pdf), [on viewer](https://parksb.github.io/x/viewer.html?file=media-project-final)
+- [media-project-final.pptx](media-project-final.pptx)
